@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">User App</string>
+    <string name="splash">splash</string>
+    <string name="image">Image</string>
+    <string name="no_results_found">No results found</string>
+    <string name="searchUsers">Search users…</string>
+    <string name="retry">Retry</string>
+    <string name="adapter_item">%1$s %2$s</string>
+    <string name="detail_item">%1$s. %2$s %3$s</string>
+    <string name="userObject">userObject</string>
+    <string name="userDetail">User Detail</string>
+    <string name="email">Email:</string>
+    <string name="street">Street:</string>
+    <string name="state">State:</string>
+    <string name="city">City:</string>
+    <string name="country">Country:</string>
+    <string name="street_item">%1$s, %2$s</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="no_internet">No internet. Please try again after sometime.</string>
+    <string name="permission_denied">Permission is denied. Please turn on permission from application settings.</string>
+
+</resources>
